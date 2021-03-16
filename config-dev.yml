@@ -1,4 +1,4 @@
-server:
-  port: config-dev
+config:
+  info: config-dev version:1
 
 

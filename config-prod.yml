@@ -1,4 +1,4 @@
-server:
-  port: config-prod
+config:
+  info: config-prod version:1
 
 

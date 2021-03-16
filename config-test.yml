@@ -1,4 +1,4 @@
-server:
-  port: config-test
+config:
+  info: config-test version:1
 
 
